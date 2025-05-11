@@ -38,6 +38,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Buddhbhushan-Gaikwad&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
